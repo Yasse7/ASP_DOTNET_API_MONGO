@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fFDZrOk5w8dU/csElGdn/IVCyY+yOVk76KAyZ8cHEc8=",
+  "Source": "WebApi_Swagger",
+  "BasePath": "_content/WebApi_Swagger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
