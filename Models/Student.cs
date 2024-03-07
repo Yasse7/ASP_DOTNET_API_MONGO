@@ -7,7 +7,7 @@ namespace WebApi_Swagger.Models
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public string id {  get; set; }
+        public string Id {  get; set; }
         [BsonElement("firstname")]
         public string firstname { get; set; }
 

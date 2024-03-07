@@ -44,3 +44,4 @@ C:\Users\Yassir.JERRARI\source\repos\WebApi_Swagger\WebApi_Swagger\bin\Debug\net
 C:\Users\Yassir.JERRARI\source\repos\WebApi_Swagger\WebApi_Swagger\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\Yassir.JERRARI\source\repos\WebApi_Swagger\WebApi_Swagger\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\Yassir.JERRARI\source\repos\WebApi_Swagger\WebApi_Swagger\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Yassir.JERRARI\source\repos\WebApi_Swagger\WebApi_Swagger\obj\Debug\net6.0\WebApi_Swagger.sourcelink.json

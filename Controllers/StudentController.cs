@@ -35,12 +35,12 @@ namespace WebApi_Swagger.Controllers
 
       
         }
-
+ 
         [HttpPost]
         public ActionResult<Student> Post([FromBody] Student student)
         {
             servicesStudent.Create(student);
-            return CreatedAtAction(nameof(Get),new {id=student.id},student);
+            return CreatedAtAction(nameof(Get), new { id = student.Id }, student);
         }
 
         // PUT api/<StudentController>/5
